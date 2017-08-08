@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "839466655331",
+    "firebase_url": "https://hbp-app-165be.firebaseio.com",
+    "project_id": "hbp-app-165be",
+    "storage_bucket": "hbp-app-165be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839466655331:android:6da1cbd6d3808de4",
+        "android_client_info": {
+          "package_name": "com.example.admin.heartmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839466655331-lag1u5ojhbdcnrf7u291id67mh3674ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWTB2ohslW1n0pAWJxEYolHVEoxCVWUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
