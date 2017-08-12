@@ -6,8 +6,8 @@
 
 **Description**:  A RealTime working Android App template for monitoring and storing Heart beat and Blood pressure of Patients in Firebase. 
 
-**Note**: 
-    -This app is to give out an open source template to handle and display heart beat and Blood pressure.
-    -Make sure that you replace the array values with the appropriate Realtime value to make it a fully functional App.
+**Note**:<br />
+    -This app is to give out an open source template to handle and display heart beat and Blood pressure.<br />
+    -Make sure that you replace the array values with the appropriate Realtime value to make it a fully functional App.<br />
 
 **License**:  Open to everyone.
