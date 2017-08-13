@@ -11,3 +11,12 @@
     -Make sure that you replace the array values with the appropriate Realtime value to make it a fully functional App.<br />
 
 **License**:  Open to everyone.
+
+**Screen Shots**:<br />
+
+![splash_screen.jpeg](img/splash_screen.jpeg)    ![auth.jpeg](auth.jpeg)<br />
+![reg.jpeg](reg.jpeg)   ![main.jpeg](main.jpeg)<br />
+
+**Working**:
+
+![health.png](img/health.gif)
