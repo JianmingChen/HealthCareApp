@@ -12,10 +12,7 @@
 
 **License**:  Open to everyone.
 
-**Screen Shots**:<br />
-
-![splash_screen.jpeg](img/splash_screen.jpeg)    ![auth.jpeg](auth.jpeg)<br />
-![reg.jpeg](reg.jpeg)   ![main.jpeg](main.jpeg)<br />
+**Screen Shots**:   Click on(https://github.com/SyamSundarKirubakaran/HealthCareApp/tree/master/img)<br />
 
 **Working**:
 
